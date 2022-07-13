@@ -25,11 +25,18 @@
 
 <table>
   <tr>
-     <td></td>
-     <td></td>
+     <td>if the sensor detects gas levels above 1000ppm then the <br>
+     microcontroller will send a notification to the smartphone</td>
+     <td>Live Preview in App</td>
   </tr>
   <tr>
     <td><img src=https://user-images.githubusercontent.com/66237340/178778596-5a1baa74-59ec-4c0a-8233-5842a9985cfb.PNG width="500"></td>
     <td><img src=https://user-images.githubusercontent.com/66237340/178778616-081c122c-6a3c-4e70-8ee9-619cfb2cfd99.PNG width="500"></td>
   </tr>
  </table>
+ 
+https://user-images.githubusercontent.com/66237340/178790648-62402793-20c3-4cf0-b3ce-ab890c80ecfc.mp4
+
+https://user-images.githubusercontent.com/66237340/178790821-3ad77908-dfd6-4888-adb9-a27d55aafcad.mp4
+
+
