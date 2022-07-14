@@ -25,7 +25,7 @@
 
 <table>
   <tr>
-     <td>if the sensor detects gas levels above 1000ppm then <br>
+     <td>if the sensor detects gas levels above 1.000ppm then <br>
      the microcontroller will send a notification to the smartphone</td>
      <td>Live Preview in App</td>
   </tr>
